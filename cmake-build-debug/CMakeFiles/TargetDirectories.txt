@@ -1,0 +1,3 @@
+C:/Users/nicor/CLionProjects/Text censoring/cmake-build-debug/CMakeFiles/Text_censoring.dir
+C:/Users/nicor/CLionProjects/Text censoring/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nicor/CLionProjects/Text censoring/cmake-build-debug/CMakeFiles/rebuild_cache.dir

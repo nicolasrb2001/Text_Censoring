@@ -1,0 +1,8 @@
+# ninja log v5
+2	276	6665529973701671	build.ninja	179073791736ab43
+1	106	6665529975728182	CMakeFiles/Text_censoring.dir/Censor_words.c.obj	a60b8f30ec589e
+107	227	6665529976931973	Text_censoring.exe	7350d50635fbf71d
+2	109	6665531643097329	CMakeFiles/Text_censoring.dir/Censor_words.c.obj	a60b8f30ec589e
+110	224	6665531644218256	Text_censoring.exe	7350d50635fbf71d
+2	118	6665535843646645	CMakeFiles/Text_censoring.dir/Censor_words.c.obj	a60b8f30ec589e
+118	240	6665535844832715	Text_censoring.exe	7350d50635fbf71d
