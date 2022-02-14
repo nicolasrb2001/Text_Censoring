@@ -1,8 +1,6 @@
 /*
  ============================================================================
- Name        : CWK2Q5.c
- Author      : Anonymous (DO NOT CHANGE)
- Description :
+
  Implement an algorithm in C which given a file containing a block of text as
  input, redacts all words from a given set of “redactable” words (also from a
  file), and outputs the result to a file called “result.txt”. For example,
